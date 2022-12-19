@@ -1,7 +1,7 @@
 
 ### 同济软件工程数据结构期末项目——五子棋
 ---
-#### 下载链接
+#### 下载地址
 * [MCTS五子棋 v1.0](https://github.com/Zhang-Shi-Team/Gobang/blob/master/Gobang.zip) 
 ---
 ### 开发背景
